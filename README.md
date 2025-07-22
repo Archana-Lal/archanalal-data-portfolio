@@ -2,13 +2,27 @@
 Portfolio of Data Engineering and Data Quality Projects : AWS, Azure, Databricks, streaming analytics, predictive modeling, and governance. -->
 
 
-# 🌐 Archana Lal – Data Engineering & Data Quality Portfolio
+# Archana Lal – Data Engineering & Data Quality Portfolio
 
 👋 Hello! I'm Archana Lal, a Data Quality Lead and Cloud Data Engineer with 6+ years of experience in building scalable, cloud-native data systems. This portfolio showcases a curated set of projects highlighting my technical skills, leadership experience, and business impact across real-time analytics, data governance, cloud migration, and predictive modeling.
 
 ---
 
-## 🚀 Core Skills
+## Portfolio of Case Studies
+
+Each of the following case studies is based on real-world work I delivered as part of strategic data transformation initiatives.It consists of detailed write-up, including the business challenge, my role, the technical solution, and an architecture diagram.
+
+| Case Study                                                                                    | Focus Area                  | Key Technologies                     | Key Outcome                               |
+| :-------------------------------------------------------------------------------------------- | :-------------------------- | :----------------------------------- | :---------------------------------------- |
+| **[1. Real-Time Streaming Analytics](./case-studies/1-streaming-analytics/README.md)**        | Streaming Data Pipelines    | AWS Kinesis, EMR, Elasticsearch      | ✅ Enabled real-time operational dashboards |
+| **[2. Predictive ML Data Quality](./case-studies/2-predictive-analytics-dq/README.md)**        | ML Pipeline Enablement      | AWS, PySpark, Feature Engineering    | 📈 Increased model accuracy from 89% to 96% |
+| **[3. Cloud Migration & Enablement](./case-studies/3-cloud-migrations/README.md)**             | Multi-Cloud Migration       | AWS, Azure, Terraform, Redshift      | 👥 Successfully up-skilled a 20-member team |
+| **[4. Engineer to Leader Transition](./case-studies/4-leadership-process-stabilization/README.md)** | Hybrid-Cloud Support & Process  | Azure Databricks, Synapse, Queues  | 📉 Reduced critical escalations by over 40% |
+| **[5. Strategic Data Governance](./case-studies/5-strategic-dq-framework/README.md)**          | Data Quality & Observability  | Databricks, SODA, Data Contracts   | 🎯 Projected to cover >60% of data gaps |
+
+---
+
+## Core Skills
 
 - **Cloud**: AWS (S3, Glue, EMR, Redshift, Kinesis, DMS), Microsoft Azure (ADLS, Synapse, ADF, Event 
 Hubs) 
@@ -19,27 +33,15 @@ Talend, SSIS, Hadoop, Hive
 - **BI & Visualization**: Power BI, ThoughtSpot, MSBI, SAP BODS, SSRS, Kibana, Grafana 
 - **Languages & Scripting**: SQL, Python, Shell Scripting 
 - **DevOps & Tools**: Git (GitHub, Bitbucket), Terraform, Airflow, Jira, Confluence, Alation, Lucid
+  
 ---
 
-## 📁 Portfolio of Case Studies
+## 🏆 Achievements & Certifications
 
-Each of the following case studies is based on real-world work I delivered as part of strategic data transformation initiatives.
-
-| Case Study Title | Focus Area | Cloud | Tools/Stack | Outcome |
-|------------------|------------|--------|--------------|---------|
-| [1. Real-Time Streaming Analytics](#1-real-time-streaming-analytics-for-logistics-operations) | Streaming Pipelines | AWS | Kinesis, EMR, Elasticsearch | Real-time ops dashboards |
-| [2. Predictive ML Data Quality](#2-enhancing-predictive-analytics-with-data-quality) | ML Pipeline Enablement | AWS | PySpark, Weather APIs | Accuracy ↑ from 89% to 96% |
-| [3. Cloud Migration & Enablement](#3-leading-cloud-migrations--team-enablement) | Azure/AWS Migration | Azure/AWS | Redshift, Terraform | Up-skilled 20-member team |
-| [4. From Engineer to Leader](#4-the-leadership-transition---from-engineer-to-leader) | Hybrid Cloud Support | Azure | Synapse, Databricks, Queues | Escalations ↓ 40% |
-| [5. Strategic Data Governance](#5-the-strategic-apex---from-leader-to-architect) | Data Observability | Databricks | SODA, YAML, Jira | Enabled 60% DQ coverage |
-
----
-
-## 🏆 Achievements
-
-- **Infosys Platinum Member** (Top 1% of employees, FY2023)
-- **AWS Certified Solutions Architect – Associate**
-- **Microsoft Certified: Azure Data Engineer (DP-203)**
+*   **Infosys Platinum Member** (Awarded to the Top 1% of employees, FY-2023)
+*   **Microsoft Certified:** Azure Data Engineer Associate (DP-203)
+*   **AWS Certified Solutions Architect** - Associate
+*   **Microsoft Certified:** Power BI Data Analyst Associate (PL-300)
 
 ---
 
@@ -51,4 +53,4 @@ Each of the following case studies is based on real-world work I delivered as pa
 
 ---
 
-> ⚡ Looking for Data Engineering or Data Quality roles in the United Kingdom with visa sponsorship.
+> ⚡I am actively seeking new **Data Engineering** or **Data Quality** roles in the **United Kingdom** and require visa sponsorship. If my experience in building and governing enterprise-scale data solutions aligns with your needs, I would be delighted to connect.
