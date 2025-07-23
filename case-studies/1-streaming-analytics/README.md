@@ -18,7 +18,6 @@ I designed and developed a streaming data pipeline on AWS that provided real-tim
 
 #### Solution Architecture
 
-![Real-Time Streaming Pipeline](./img/streaming-pipeline.png)
 
 The solution involved:
 *   **Ingesting** high-volume, real-time event data from thousands of sorter machines.
