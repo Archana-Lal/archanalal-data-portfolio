@@ -16,7 +16,7 @@ I initially joined this account in India as a Development Lead, managing a 15-me
 
 #### Decoupling for System Stability
 
-![Decoupling for System Stability](./img/decoupling-before-after.png)
+![Decoupling for System Stability](./img/decoupling-before-after.jpg)
 
 *   **Process Overhaul:** I didn't just fix tickets; I overhauled the entire support process. I established clear communication protocols, implemented a more efficient ticketing workflow in **Jira**, and held regular service review meetings with client stakeholders.
 *   **Technical Stabilization:** I led a technical initiative to re-architect a critical polling pipeline, **decoupling its processes** to improve stability and performance.
