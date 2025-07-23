@@ -58,6 +58,8 @@ Talend, SSIS, Hadoop, Hive
 > ⚡I am actively seeking new **Data Engineering** or **Data Quality** roles in the **United Kingdom** and require visa sponsorship. If my experience in building and governing enterprise-scale data solutions aligns with your needs, I would be delighted to connect.
 
 
+---
+
 ⚠️ **Disclaimer**
 
 The case studies in this repository are inspired by real-world projects I have contributed to during my professional experience. However, they **do not include any proprietary code, internal documentation, or confidential information**. All client names have been **anonymized**, and the content has been adapted solely to illustrate the nature of the work and the skills involved.
