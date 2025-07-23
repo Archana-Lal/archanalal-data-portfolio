@@ -4,21 +4,23 @@ Portfolio of Data Engineering and Data Quality Projects : AWS, Azure, Databricks
 
 # Archana Lal – Data Engineering & Data Quality Portfolio
 
-👋 Hello! I'm Archana Lal, a Data Quality Lead and Cloud Data Engineer with 6+ years of experience in building scalable, cloud-native data systems. This portfolio showcases a curated set of projects highlighting my technical skills, leadership experience, and business impact across real-time analytics, data governance, cloud migration, and predictive modeling.
+👋 Hello! I'm Archana Lal, a Data Quality Lead and Cloud Data Engineer with over six years of experience architecting, governing, and optimizing data solutions on AWS and Azure. My passion lies in transforming complex business requirements into reliable, high-value data assets.
+
+This portfolio contains five detailed case studies from my work in the global logistics sector, showcasing my journey from hands-on engineering to strategic data leadership.
 
 ---
 
 ## Portfolio of Case Studies
 
-Each of the following case studies is based on real-world work I delivered as part of strategic data transformation initiatives.It consists of detailed write-up, including the business challenge, my role, the technical solution, and an architecture diagram.
+Each case study below links to a detailed write-up, including the business challenge, my role, the high-level technical solution, and an workflow diagram.
 
-| Case Study                                                                                    | Focus Area                  | Key Technologies                     | Key Outcome                               |
-| :-------------------------------------------------------------------------------------------- | :-------------------------- | :----------------------------------- | :---------------------------------------- |
-| **[1. Real-Time Streaming Analytics](./case-studies/1-streaming-analytics/README.md)**        | Streaming Data Pipelines    | AWS Kinesis, EMR, Elasticsearch      | ✅ Enabled real-time operational dashboards |
-| **[2. Predictive ML Data Quality](./case-studies/2-predictive-analytics-dq/README.md)**        | ML Pipeline Enablement      | AWS, PySpark, Feature Engineering    | 📈 Increased model accuracy from 89% to 96% |
-| **[3. Cloud Migration & Enablement](./case-studies/3-cloud-migrations/README.md)**             | Multi-Cloud Migration       | AWS, Azure, Terraform, Redshift      | 👥 Successfully up-skilled a 20-member team |
-| **[4. Engineer to Leader Transition](./case-studies/4-leadership-process-stabilization/README.md)** | Hybrid-Cloud Support & Process  | Azure Databricks, Synapse, Queues  | 📉 Reduced critical escalations by over 40% |
-| **[5. Strategic Data Governance](./case-studies/5-strategic-dq-framework/README.md)**          | Data Quality & Observability  | Databricks, SODA, Data Contracts   | 🎯 Projected to cover >60% of data gaps |
+| Case Study                                                                                                | Focus Area                  | Key Technologies                     | Key Outcome                               |
+| :-------------------------------------------------------------------------------------------------------- | :-------------------------- | :----------------------------------- | :---------------------------------------- |
+| **[1. Real-Time Streaming Analytics](./case-studies/1-streaming-analytics/README.md)**                      | Streaming Data Pipelines    | AWS Kinesis, EMR, Elasticsearch      | ✅ Enabled real-time operational dashboards |
+| **[2. Predictive ML Data Quality](./case-studies/2-predictive-analytics-dq/README.md)**                     | ML Pipeline Enablement      | AWS, PySpark, Feature Engineering    | 📈 Increased model accuracy from 89% to 96% |
+| **[3. Cloud Migration & Enablement](./case-studies/3-cloud-migrations/README.md)**                          | Multi-Cloud Migration       | AWS, Azure, Terraform, Redshift      | 👥 Successfully up-skilled a 20-member team |
+| **[4. Process Stabilization & Leadership](./case-studies/4-leadership-process-stabilization/README.md)**    | Hybrid-Cloud Support & Process  | Azure Databricks, Synapse, Queues  | 📉 Reduced critical escalations by over 40% |
+| **[5. Strategic Data Governance](./case-studies/5-strategic-dq-framework/README.md)**                       | Data Quality & Observability  | Databricks, SODA, Data Contracts   | 🎯 Projected to cover >60% of data gaps |
 
 ---
 
