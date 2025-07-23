@@ -33,4 +33,8 @@ The migrations successfully modernized the client's data platform, making it mor
 
 ---
 
+
+📌 _Note: This case study is adapted from real-world experience and does not contain any confidential or proprietary information. See [main disclaimer](../../README.md) for details._
+
+
 [⬅️ Back to Portfolio Home](../../README.md)
