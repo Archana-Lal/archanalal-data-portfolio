@@ -36,4 +36,7 @@ The framework I designed is projected to address **over 60% of the identified da
 
 ---
 
+📌 _Note: This case study is adapted from real-world experience and does not contain any confidential or proprietary information. See [main disclaimer](../../README.md) for details._
+
+
 [⬅️ Back to Portfolio Home](../../README.md)
