@@ -35,5 +35,7 @@ My solution focused on three key areas of the data pipeline:
 My work on re-engineering the data pipeline directly led to an increase in the prediction model's accuracy **from 89% to 96%**. This resulted in more reliable delivery forecasts for the business and a better experience for their end customers. This project solidified my understanding that data quality is not just a support function; it is a critical enabler of advanced analytics and AI.
 
 ---
+📌 _Note: This case study is adapted from real-world experience and does not contain any confidential or proprietary information. See [main disclaimer](../../README.md) for details._
+
 
 [⬅️ Back to Portfolio Home](../../README.md)
