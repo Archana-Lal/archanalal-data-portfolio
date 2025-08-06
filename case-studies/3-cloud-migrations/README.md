@@ -10,7 +10,7 @@ The client needed to modernize its entire data ecosystem by migrating dozens of 
 
 ### 👤 My Role & The Journey
 
-I was a key player in this multi-year transformation program. I started as a hands-on Cloud Migration Engineer, executing complex migrations, and grew into a Cloud SME, where I was responsible for mentoring a 20-person "Reporting Factory" team on cloud best practices.
+I was a key player in this multi-year transformation program. I started as a hands-on Cloud Migration Engineer, executing complex migrations, and grew into a Cloud SME, where I was responsible for mentoring a 20-person team on cloud best practices.
 
 ### 💡 The Solution & Technical Implementation
 
